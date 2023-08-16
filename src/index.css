@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+body{
+  background: rgba(43, 43, 127, 0.92);
+}
+
+
+.home-page .form label
+{
+    display: block;
+}
+
+#sumbitBtn{
+  width: 250px;
+  height: 40px;
+  margin: 5px;
+  background-color: lightblue;
+  border: none;
+  outline: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+
+#text-desc{
+  font-size: 25px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color:#fff ;
+  font-weight: lighter;
+  margin-top:5px ;
+}
+
+#idBar{
+  width: 230px;
+  padding: 10px;
+  border: 1px black;
+  outline: none;
+  border-radius: 4px;
+}
+
+.form{
+  margin-top: 20%;
+  
+}
+
